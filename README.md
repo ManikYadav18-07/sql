@@ -1,7 +1,3 @@
-Here is a README.md file generated based on the two SQL files you provided.
-
------
-
 # `saitm` Database SQL Dumps
 
 This document provides an overview of the two SQL dump files: `saitm_groups_studentds.sql` and `saitm_dep1.sql`. Both files are MySQL dumps for a database named `saitm`.
